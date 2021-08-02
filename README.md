@@ -2,7 +2,7 @@
 - 👀 I’m interested in Django and Flutter
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...nothing now, still learning
-- 📫 How to reach me, [see my facebook profile](https://www.fb.com/abdulrsol)
+- 📫 How to reach me, [See My Facebook Profile](https://www.fb.com/abdulrsol)
 
 <!---
 abdulrasol/abdulrasol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
