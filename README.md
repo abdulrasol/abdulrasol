@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdulrasol
-- 👀 I’m interested in Django and Flutter
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Web Developer and Flutter
+- 🌱 I’m currently learning sveltejs
 - 💞️ I’m looking to collaborate on ...nothing now, still learning
 - 📫 How to reach me, [See My Facebook Profile](https://www.fb.com/abdulrsol)
 
